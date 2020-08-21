@@ -1,318 +1,340 @@
 ,VenueCategory,Count
-0,Afghan Restaurant,1
-1,African Restaurant,3
-2,American Restaurant,10
-3,Animal Shelter,1
-4,Antique Shop,2
-5,Aquarium,2
-6,Arcade,1
-7,Arepa Restaurant,1
-8,Argentinian Restaurant,12
-9,Art Gallery,40
-10,Art Museum,8
-11,Arts & Crafts Store,6
-12,Asian Restaurant,21
-13,Athletics & Sports,7
-14,Australian Restaurant,1
-15,Austrian Restaurant,1
-16,BBQ Joint,4
-17,Baby Store,1
-18,Bagel Shop,6
-19,Bakery,50
-20,Bar,58
-21,Bathing Area,1
-22,Beach,1
-23,Bed & Breakfast,2
-24,Beer Bar,25
-25,Beer Store,1
-26,Bike Rental / Bike Share,3
-27,Bike Shop,3
-28,Bistro,6
-29,Boat or Ferry,3
-30,Bookstore,32
-31,Botanical Garden,1
-32,Boutique,22
-33,Bowling Alley,1
-34,Boxing Gym,4
-35,Brasserie,2
-36,Brazilian Restaurant,2
-37,Breakfast Spot,20
-38,Brewery,11
-39,Bubble Tea Shop,1
-40,Buffet,1
-41,Building,5
-42,Burger Joint,46
-43,Burrito Place,5
-44,Bus Station,3
-45,Bus Stop,16
-46,Butcher,1
-47,Café,162
-48,Camera Store,4
-49,Canal,5
-50,Canal Lock,4
-51,Candy Store,4
-52,Cantonese Restaurant,5
-53,Caribbean Restaurant,2
-54,Casino,1
-55,Castle,2
-56,Caucasian Restaurant,2
-57,Cemetery,1
-58,Champagne Bar,5
-59,Cheese Shop,7
-60,Chinese Restaurant,31
-61,Chocolate Shop,16
-62,Church,2
-63,Churrascaria,1
-64,Climbing Gym,2
-65,Clothing Store,29
-66,Club House,1
-67,Cocktail Bar,43
-68,Coffee Shop,222
-69,College Cafeteria,1
-70,College Quad,1
-71,College Residence Hall,1
-72,College Science Building,1
-73,Colombian Restaurant,1
-74,Comedy Club,2
-75,Comic Shop,2
-76,Concert Hall,7
-77,Convenience Store,11
-78,Cosmetics Shop,13
-79,Costume Shop,1
-80,Creperie,4
-81,Cricket Ground,3
-82,Cultural Center,1
-83,Cupcake Shop,9
-84,Currywurst Joint,1
-85,Cycle Studio,1
-86,Dance Studio,10
-87,Deli / Bodega,18
-88,Department Store,10
-89,Design Studio,1
-90,Dessert Shop,17
-91,Dim Sum Restaurant,4
-92,Diner,4
-93,Discount Store,1
-94,Distillery,2
-95,Donut Shop,6
-96,Dry Cleaner,1
-97,Dumpling Restaurant,1
-98,Eastern European Restaurant,1
-99,Electronics Store,2
-100,Empanada Restaurant,1
-101,English Restaurant,24
-102,Escape Room,3
-103,Ethiopian Restaurant,3
-104,Event Service,1
-105,Event Space,7
-106,Exhibit,10
-107,Fabric Shop,1
-108,Falafel Restaurant,9
-109,Farm,1
-110,Farmers Market,6
-111,Fast Food Restaurant,14
-112,Film Studio,2
-113,Fish & Chips Shop,15
-114,Fish Market,3
-115,Flea Market,3
-116,Flower Shop,4
-117,Food,2
-118,Food & Drink Shop,4
-119,Food Court,5
-120,Food Stand,3
-121,Food Truck,23
-122,Fountain,8
-123,French Restaurant,56
-124,Fried Chicken Joint,6
-125,Frozen Yogurt Shop,3
-126,Fruit & Vegetable Store,3
-127,Furniture / Home Store,8
-128,Garden,49
-129,Garden Center,2
-130,Gastropub,28
-131,Gay Bar,8
-132,Gelato Shop,3
-133,General Entertainment,2
-134,German Restaurant,1
-135,Gift Shop,14
-136,Gourmet Shop,10
-137,Greek Restaurant,17
-138,Grocery Store,48
-139,Gym,19
-140,Gym / Fitness Center,61
-141,Gym Pool,2
-142,Harbor / Marina,5
-143,Health & Beauty Service,1
-144,Health Food Store,1
-145,Himalayan Restaurant,1
-146,Historic Site,10
-147,History Museum,13
-148,Hobby Shop,1
-149,Hookah Bar,6
-150,Hostel,9
-151,Hot Dog Joint,1
-152,Hotel,187
-153,Hotel Bar,21
-154,Hunan Restaurant,1
-155,Ice Cream Shop,14
-156,Indian Restaurant,43
-157,Indie Movie Theater,5
-158,Iraqi Restaurant,1
-159,Irish Pub,2
-160,Israeli Restaurant,1
-161,Italian Restaurant,122
-162,Japanese Restaurant,35
-163,Jazz Club,2
-164,Jewelry Store,5
-165,Juice Bar,16
-166,Kebab Restaurant,4
-167,Kids Store,1
-168,Kitchen Supply Store,1
-169,Korean Restaurant,7
-170,Lake,2
-171,Latin American Restaurant,6
-172,Lebanese Restaurant,19
-173,Library,1
-174,Light Rail Station,1
-175,Lingerie Store,2
-176,Liquor Store,3
-177,Lounge,18
-178,Malay Restaurant,3
-179,Market,10
-180,Massage Studio,1
-181,Mediterranean Restaurant,14
-182,Memorial Site,1
-183,Men's Store,10
-184,Metro Station,1
-185,Mexican Restaurant,9
-186,Middle Eastern Restaurant,30
-187,Mini Golf,1
-188,Miscellaneous Shop,1
-189,Mobile Phone Shop,2
-190,Modern European Restaurant,17
-191,Molecular Gastronomy Restaurant,1
-192,Monument / Landmark,8
-193,Moroccan Restaurant,1
-194,Motorcycle Shop,2
-195,Movie Theater,14
-196,Multiplex,1
-197,Museum,15
-198,Music Store,2
-199,Music Venue,12
-200,Nail Salon,2
-201,Nature Preserve,1
-202,Neighborhood,1
-203,New American Restaurant,3
-204,Nightclub,9
-205,Noodle House,2
-206,North Indian Restaurant,1
-207,Office,2
-208,Okonomiyaki Restaurant,1
-209,Opera House,1
-210,Organic Grocery,6
-211,Outdoor Sculpture,14
-212,Pakistani Restaurant,3
-213,Palace,4
-214,Paper / Office Supplies Store,1
-215,Park,65
-216,Pastry Shop,1
-217,Pedestrian Plaza,6
-218,Performing Arts Venue,6
-219,Perfume Shop,4
-220,Persian Restaurant,5
-221,Peruvian Restaurant,5
-222,Pet Store,1
-223,Pharmacy,14
-224,Pie Shop,2
-225,Pier,2
-226,Pilates Studio,1
-227,Pizza Place,57
-228,Platform,2
-229,Playground,5
-230,Plaza,42
-231,Poke Place,2
-232,Polish Restaurant,3
-233,Pool Hall,1
-234,Portuguese Restaurant,15
-235,Pub,182
-236,Public Art,1
-237,Ramen Restaurant,8
-238,Record Shop,4
-239,Rental Car Location,1
-240,Residential Building (Apartment / Condo),2
-241,Restaurant,72
-242,River,1
-243,Road,2
-244,Rock Club,2
-245,Roof Deck,5
-246,Russian Restaurant,2
-247,Salad Place,8
-248,Salon / Barbershop,2
-249,Sandwich Place,67
-250,Scandinavian Restaurant,4
-251,Scenic Lookout,11
-252,School,1
-253,Science Museum,10
-254,Scottish Restaurant,1
-255,Seafood Restaurant,24
-256,Shoe Store,13
-257,Shopping Mall,4
-258,Shopping Plaza,3
-259,Skate Park,2
-260,Smoke Shop,1
-261,Snack Place,2
-262,Soccer Field,1
-263,Social Club,6
-264,Soup Place,2
-265,South American Restaurant,4
-266,Souvenir Shop,3
-267,Souvlaki Shop,1
-268,Spa,13
-269,Spanish Restaurant,13
-270,Speakeasy,8
-271,Sporting Goods Shop,5
-272,Sports Bar,4
-273,Sports Club,1
-274,Sri Lankan Restaurant,2
-275,Stables,1
-276,Stationery Store,4
-277,Steakhouse,25
-278,Street Art,2
-279,Street Food Gathering,13
-280,Supermarket,19
-281,Sushi Restaurant,23
-282,Szechuan Restaurant,3
-283,Taco Place,2
-284,Tailor Shop,1
-285,Taiwanese Restaurant,1
-286,Tapas Restaurant,22
-287,Tea Room,21
-288,Tennis Court,6
-289,Thai Restaurant,15
-290,Theater,47
-291,Theme Park Ride / Attraction,3
-292,Theme Restaurant,1
-293,Tiki Bar,1
-294,Tour Provider,2
-295,Tourist Information Center,1
-296,Toy / Game Store,3
-297,Track Stadium,1
-298,Trail,4
-299,Train Station,5
-300,Tree,1
-301,Turkish Restaurant,20
-302,Udon Restaurant,2
-303,University,1
-304,Vegetarian / Vegan Restaurant,9
-305,Video Game Store,1
-306,Video Store,1
-307,Vietnamese Restaurant,23
-308,Warehouse Store,3
-309,Whisky Bar,2
-310,Wine Bar,31
-311,Wine Shop,7
-312,Wings Joint,2
-313,Women's Store,7
-314,Yoga Studio,16
-315,Zoo,1
-316,Zoo Exhibit,17
+0,Accessories Store,4
+1,Adult Boutique,2
+2,Afghan Restaurant,1
+3,African Restaurant,4
+4,American Restaurant,9
+5,Animal Shelter,1
+6,Antique Shop,4
+7,Aquarium,2
+8,Arcade,2
+9,Arepa Restaurant,1
+10,Argentinian Restaurant,12
+11,Art Gallery,48
+12,Art Museum,11
+13,Arts & Crafts Store,11
+14,Asian Restaurant,26
+15,Athletics & Sports,6
+16,Australian Restaurant,3
+17,Austrian Restaurant,2
+18,BBQ Joint,5
+19,Baby Store,1
+20,Bagel Shop,5
+21,Baggage Locker,1
+22,Bakery,72
+23,Bar,84
+24,Basketball Court,1
+25,Bathing Area,1
+26,Beach,1
+27,Bed & Breakfast,5
+28,Beer Bar,30
+29,Beer Store,1
+30,Bike Rental / Bike Share,5
+31,Bike Shop,4
+32,Bistro,11
+33,Boat or Ferry,8
+34,Bookstore,38
+35,Botanical Garden,2
+36,Boutique,36
+37,Bowling Alley,2
+38,Boxing Gym,4
+39,Brasserie,2
+40,Brazilian Restaurant,1
+41,Breakfast Spot,26
+42,Brewery,9
+43,Bubble Tea Shop,3
+44,Building,5
+45,Burger Joint,59
+46,Burrito Place,15
+47,Bus Station,4
+48,Bus Stop,23
+49,Butcher,1
+50,Café,211
+51,Camera Store,5
+52,Canal,4
+53,Canal Lock,3
+54,Candy Store,4
+55,Cantonese Restaurant,5
+56,Caribbean Restaurant,1
+57,Casino,3
+58,Castle,2
+59,Caucasian Restaurant,2
+60,Cemetery,1
+61,Champagne Bar,9
+62,Cheese Shop,8
+63,Chinese Restaurant,37
+64,Chocolate Shop,14
+65,Church,3
+66,Churrascaria,1
+67,Circus School,1
+68,Climbing Gym,2
+69,Clothing Store,48
+70,Club House,1
+71,Cocktail Bar,73
+72,Coffee Shop,299
+73,College Cafeteria,1
+74,College Quad,1
+75,Colombian Restaurant,1
+76,Comedy Club,2
+77,Comic Shop,2
+78,Concert Hall,8
+79,Construction & Landscaping,1
+80,Convenience Store,16
+81,Convention Center,2
+82,Cosmetics Shop,17
+83,Costume Shop,1
+84,Coworking Space,2
+85,Creperie,4
+86,Cricket Ground,10
+87,Cuban Restaurant,1
+88,Cupcake Shop,9
+89,Currywurst Joint,1
+90,Cycle Studio,3
+91,Dance Studio,10
+92,Deli / Bodega,23
+93,Department Store,8
+94,Design Studio,2
+95,Dessert Shop,17
+96,Dim Sum Restaurant,6
+97,Diner,8
+98,Discount Store,1
+99,Distillery,2
+100,Donut Shop,10
+101,Dry Cleaner,1
+102,Dumpling Restaurant,1
+103,Eastern European Restaurant,1
+104,Electronics Store,4
+105,Empanada Restaurant,1
+106,English Restaurant,37
+107,Escape Room,3
+108,Event Space,12
+109,Exhibit,10
+110,Falafel Restaurant,9
+111,Farm,1
+112,Farmers Market,8
+113,Fast Food Restaurant,26
+114,Film Studio,1
+115,Fish & Chips Shop,24
+116,Fish Market,1
+117,Flea Market,5
+118,Flower Shop,3
+119,Food,2
+120,Food & Drink Shop,3
+121,Food Court,7
+122,Food Stand,4
+123,Food Truck,24
+124,Fountain,8
+125,French Restaurant,74
+126,Fried Chicken Joint,8
+127,Frozen Yogurt Shop,3
+128,Fruit & Vegetable Store,3
+129,Furniture / Home Store,11
+130,Gaming Cafe,1
+131,Garden,55
+132,Garden Center,2
+133,Gastropub,32
+134,Gay Bar,9
+135,Gelato Shop,5
+136,General Entertainment,3
+137,German Restaurant,2
+138,Gift Shop,19
+139,Gluten-free Restaurant,1
+140,Gourmet Shop,9
+141,Greek Restaurant,17
+142,Grocery Store,62
+143,Gym,20
+144,Gym / Fitness Center,85
+145,Gym Pool,1
+146,Halal Restaurant,1
+147,Harbor / Marina,3
+148,Health & Beauty Service,4
+149,Health Food Store,2
+150,Herbs & Spices Store,1
+151,Himalayan Restaurant,1
+152,Historic Site,12
+153,History Museum,16
+154,Hobby Shop,1
+155,Hookah Bar,6
+156,Hostel,7
+157,Hotel,238
+158,Hotel Bar,32
+159,Hunan Restaurant,1
+160,IT Services,2
+161,Ice Cream Shop,19
+162,Indian Restaurant,70
+163,Indie Movie Theater,8
+164,Indie Theater,2
+165,Iraqi Restaurant,1
+166,Irish Pub,1
+167,Israeli Restaurant,1
+168,Italian Restaurant,161
+169,Japanese Curry Restaurant,1
+170,Japanese Restaurant,48
+171,Jazz Club,1
+172,Jewelry Store,14
+173,Juice Bar,24
+174,Kebab Restaurant,3
+175,Kids Store,2
+176,Kitchen Supply Store,1
+177,Korean Restaurant,13
+178,Lake,3
+179,Latin American Restaurant,4
+180,Lawyer,1
+181,Leather Goods Store,2
+182,Lebanese Restaurant,24
+183,Library,3
+184,Light Rail Station,1
+185,Lingerie Store,4
+186,Liquor Store,5
+187,Lounge,29
+188,Malay Restaurant,6
+189,Market,10
+190,Martial Arts School,1
+191,Massage Studio,2
+192,Mediterranean Restaurant,16
+193,Memorial Site,3
+194,Men's Store,9
+195,Metro Station,2
+196,Mexican Restaurant,17
+197,Middle Eastern Restaurant,40
+198,Mini Golf,1
+199,Miscellaneous Shop,2
+200,Mobile Phone Shop,1
+201,Modern European Restaurant,24
+202,Molecular Gastronomy Restaurant,1
+203,Monument / Landmark,10
+204,Moroccan Restaurant,4
+205,Motorcycle Shop,1
+206,Movie Theater,13
+207,Multiplex,2
+208,Museum,17
+209,Music Store,3
+210,Music Venue,10
+211,Nail Salon,1
+212,Nature Preserve,1
+213,Neighborhood,1
+214,New American Restaurant,3
+215,Nightclub,14
+216,Noodle House,3
+217,North Indian Restaurant,1
+218,Office,3
+219,Okonomiyaki Restaurant,1
+220,Opera House,2
+221,Optical Shop,1
+222,Organic Grocery,5
+223,Outdoor Event Space,1
+224,Outdoor Sculpture,19
+225,Paella Restaurant,1
+226,Pakistani Restaurant,4
+227,Palace,4
+228,Paper / Office Supplies Store,1
+229,Park,87
+230,Pastry Shop,2
+231,Pedestrian Plaza,8
+232,Performing Arts Venue,11
+233,Perfume Shop,3
+234,Persian Restaurant,3
+235,Peruvian Restaurant,6
+236,Pet Store,1
+237,Pharmacy,24
+238,Pie Shop,2
+239,Pier,3
+240,Piercing Parlor,1
+241,Pilates Studio,1
+242,Pizza Place,73
+243,Platform,7
+244,Playground,7
+245,Plaza,53
+246,Poke Place,2
+247,Polish Restaurant,2
+248,Pool,1
+249,Pool Hall,2
+250,Portuguese Restaurant,21
+251,Post Office,1
+252,Pub,247
+253,Public Art,2
+254,Ramen Restaurant,13
+255,Record Shop,5
+256,Rental Car Location,1
+257,Residential Building (Apartment / Condo),4
+258,Restaurant,96
+259,River,1
+260,Road,5
+261,Rock Club,4
+262,Roof Deck,7
+263,Russian Restaurant,3
+264,Salad Place,17
+265,Salon / Barbershop,5
+266,Sandwich Place,110
+267,Scandinavian Restaurant,6
+268,Scenic Lookout,11
+269,School,1
+270,Science Museum,15
+271,Scottish Restaurant,1
+272,Sculpture Garden,1
+273,Seafood Restaurant,25
+274,Shoe Store,14
+275,Shopping Mall,7
+276,Shopping Plaza,3
+277,Skate Park,3
+278,Smoke Shop,1
+279,Snack Place,2
+280,Social Club,5
+281,Soup Place,3
+282,South American Restaurant,5
+283,Souvenir Shop,5
+284,Souvlaki Shop,2
+285,Spa,15
+286,Spanish Restaurant,10
+287,Speakeasy,4
+288,Sporting Goods Shop,7
+289,Sports Bar,4
+290,Sports Club,1
+291,Sri Lankan Restaurant,1
+292,Stables,1
+293,Stationery Store,8
+294,Steakhouse,36
+295,Street Art,2
+296,Street Food Gathering,13
+297,Student Center,1
+298,Supermarket,22
+299,Sushi Restaurant,42
+300,Szechuan Restaurant,5
+301,Taco Place,2
+302,Tailor Shop,2
+303,Taiwanese Restaurant,1
+304,Tapas Restaurant,21
+305,Tea Room,31
+306,Tennis Court,6
+307,Thai Restaurant,25
+308,Theater,51
+309,Theme Park Ride / Attraction,3
+310,Theme Restaurant,1
+311,Thrift / Vintage Store,1
+312,Tour Provider,2
+313,Tourist Information Center,1
+314,Toy / Game Store,4
+315,Track,2
+316,Track Stadium,1
+317,Trail,5
+318,Train Station,8
+319,Tree,2
+320,Tunnel,1
+321,Turkish Restaurant,30
+322,Udon Restaurant,1
+323,University,1
+324,Used Bookstore,1
+325,Vegetarian / Vegan Restaurant,15
+326,Video Store,1
+327,Vietnamese Restaurant,30
+328,Warehouse Store,3
+329,Watch Shop,1
+330,Whisky Bar,4
+331,Wine Bar,40
+332,Wine Shop,13
+333,Wings Joint,2
+334,Women's Store,15
+335,Yoga Studio,13
+336,Yoshoku Restaurant,1
+337,Zoo,2
+338,Zoo Exhibit,16
